@@ -1,8 +1,8 @@
 ---
 layout: home
-title: Home
 author_profile: true
 classes: wide
+paginate: false
 ---
 
 This site is still under construction!
