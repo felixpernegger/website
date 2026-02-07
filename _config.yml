@@ -119,6 +119,9 @@ author:
   location         : "Bonn, Germany"
   email            :
   links:
+      - label: "CV"
+      icon: "fas fa-fw fa-file-pdf"
+      url: "/cv.pdf"
     - label: "University Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:s59fpern@uni-bonn.de"
