@@ -119,7 +119,7 @@ author:
   location         : "Bonn, Germany"
   email            :
   links:
-      - label: "CV"
+    - label: "CV"
       icon: "fas fa-fw fa-file-pdf"
       url: "/cv.pdf"
     - label: "University Email"
