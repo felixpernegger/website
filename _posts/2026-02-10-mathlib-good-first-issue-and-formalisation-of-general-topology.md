@@ -44,3 +44,5 @@ Similarly, a formalisation of the pi-base would be a great candidate for a "good
 - Upstreaming theorems and properties from the pi-base would greatly enrich mathlib's topology sublibrary
 
 Possibly, a formalisation of the pi-base could also be aided by AI tools and might be a good way to empirically test and compare their current abilities.
+
+To this end, I have made a [minimal working example](https://github.com/felixpernegger/pibase-lean), which aims to formalise the pi-base in an organised way. While as of writing the structure of the repository is not entirely stable yet, contributions are very welcome!
